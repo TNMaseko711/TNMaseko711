@@ -60,6 +60,22 @@
 ![VoIP](https://img.shields.io/badge/VoIP-00B4AB?style=flat-square&logo=webrtc&logoColor=white)
 
 <br/>
+---
+
+## `$ ls projects/`
+
+<br/>
+
+| | Project | Stack | What it does |
+|:---:|:---|:---|:---|
+| ☁️ | **[CloudTrinity](https://github.com/TNMaseko711/CloudTrinity)** | Terraform · EKS · GitHub Actions | End-to-end DevOps platform: 3-tier microservices app deployed across dev/staging/prod on AWS with progressive CI/CD, Trivy scanning, and Prometheus/Grafana observability |
+| 🔐 | **[ControlGate-CI](https://github.com/TNMaseko711/ControlGate-CI)** | C# · Docker · GitHub Actions | Regulated internal API pipeline with explicit build, test, and security gates — containerised and production-hardened |
+| 📈 | **[MarketFlux](https://github.com/TNMaseko711/MarketFlux)** | Python | Real-time financial data platform: streams stock updates, calculates technical indicators, and exposes data through a low-latency API |
+| 🤖 | **[Experimentra](https://github.com/TNMaseko711/Experimentra)** | Python | Self-hosted, framework-agnostic MLOps platform blueprint covering the full ML lifecycle |
+| 📉 | **[ReviveAI](https://github.com/TNMaseko711/ReviveAI)** | Python · Jupyter | Churn prediction system that quantifies the revenue impact of intervention strategies |
+| ⚙️ | **[Orchestrix](https://github.com/TNMaseko711/Orchestrix)** | Go | Horizontally scalable job queue with complex dependency graph support — Temporal/Airflow-style, real-time focused |
+
+<br/>
 
 ---
 
@@ -129,23 +145,6 @@
 <br/>
 
 ---
-
----
-
-## `$ ls projects/`
-
-<br/>
-
-| | Project | Stack | What it does |
-|:---:|:---|:---|:---|
-| ☁️ | **[CloudTrinity](https://github.com/TNMaseko711/CloudTrinity)** | Terraform · EKS · GitHub Actions | End-to-end DevOps platform: 3-tier microservices app deployed across dev/staging/prod on AWS with progressive CI/CD, Trivy scanning, and Prometheus/Grafana observability |
-| 🔐 | **[ControlGate-CI](https://github.com/TNMaseko711/ControlGate-CI)** | C# · Docker · GitHub Actions | Regulated internal API pipeline with explicit build, test, and security gates — containerised and production-hardened |
-| 📈 | **[MarketFlux](https://github.com/TNMaseko711/MarketFlux)** | Python | Real-time financial data platform: streams stock updates, calculates technical indicators, and exposes data through a low-latency API |
-| 🤖 | **[Experimentra](https://github.com/TNMaseko711/Experimentra)** | Python | Self-hosted, framework-agnostic MLOps platform blueprint covering the full ML lifecycle |
-| 📉 | **[ReviveAI](https://github.com/TNMaseko711/ReviveAI)** | Python · Jupyter | Churn prediction system that quantifies the revenue impact of intervention strategies |
-| ⚙️ | **[Orchestrix](https://github.com/TNMaseko711/Orchestrix)** | Go | Horizontally scalable job queue with complex dependency graph support — Temporal/Airflow-style, real-time focused |
-
-<br/>
 
 ## `$ echo $LEARNING_NOW`
 
